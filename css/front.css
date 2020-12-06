@@ -1,12 +1,9 @@
+html {
+    height: 100%;
+}
 body {
     font-family: 'Open Sans',Helvetica,Arial,sans-serif;
-    background-color: rgba(0, 0, 0, 0.9);
-    position: absolute; 
-    top: 0;
-    bottom: 0;
-    right: 0;
-    left: 0;
-    margin: 0;
+    background-image: linear-gradient(to bottom right, #536976, #292E49);
 }
 #fullscreen {
     z-index: -999;
@@ -38,9 +35,8 @@ h3 {
     font-weight: thin;
 }
 .content {
-    padding-top: 100px;
+    padding-top: 140px;
     padding-bottom: 40px;
-    background-color: rgba(0, 0, 0, 0.5);
     text-align: center;
 }
 ul {
@@ -64,7 +60,7 @@ li:hover {
     -moz-transition: 500ms;
     transition: 500ms;
     text-decoration: none;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: #2661fe;
 }
 a {
     color: white;
@@ -108,7 +104,7 @@ a:hover {
     -webkit-transition: 500ms;
     -moz-transition: 500ms;
     transition: 500ms;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(38, 97, 254);
     color: white;
     text-decoration: none;
 }
