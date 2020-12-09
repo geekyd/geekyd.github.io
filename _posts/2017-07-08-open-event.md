@@ -1,11 +1,10 @@
 ---
-title: ":ticket: Open event"
+title: "Eventyay :ticket:"
 layout: post
 date: 2017-07-08 01:10
 tag:
 - Open source
 - Event management
-image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
@@ -15,23 +14,10 @@ author: dilpreetsio
 externalLink: false
 ---
 
-![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
+![Screenshot](/assets/images/projects/oe.png)
 
-Example of project - Indigo Minimalist Jekyll Template - [Demo](https://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
-
----
-
-What has inside?
-
-- Gulp
-- BrowserSync
-- Stylus
-- SVG
-- Travis
-- No JS
-- [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
+Eventyay is an open source event management application by fossasia.
 
 ---
 
-[Check it out](https://sergiokopplin.github.io/indigo/) here.
-If you need some help, just [tell me](https://github.com/sergiokopplin/indigo/issues).
+[Check it out here.](https://eventyay.com)
